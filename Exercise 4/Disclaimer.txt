@@ -1,0 +1,11 @@
+Disclaimer:
+
+You will submit your file to an assignment that is given through MS teams.  Your file-name should be "Ex04_yourStudentNumber.java". Submissions made after the deadline will not be accepted, be sure to submit your work before the due date and make sure to click turn in button. Your code will be automatically controlled, so be sure to have only one public class in your file that has the same name with your file. Failure to do so may result in you receiving 0 from this exercise. You will turn in a single java file.
+
+Exercises:
+
+Write a code that calculates the area and circumference of a circle. Instead of taking just the radius as input, ask the user for the center coordinates integer (x, y) and a point on the circle’s edge (x, y). Use these coordinates to calculate the area and circumference. 
+Write a code that takes a user’s full name as input (assuming they enter their first name followed by their last name with a space in between, so as a single string), and then displays their name in reverse order, with the last name followed by a comma and a space, and then the first name. For example, “John Doe” should be displayed as “Doe, John”. 
+Write a code that takes a day number (1-7) as input and prints the corresponding day name without using if-else (Monday-Sunday). 
+Write a code that takes three city names from user and displays them ascending order in separate lines. 
+Given the height and base of a triangle, calculate and display its area up to 3 decimal places 
