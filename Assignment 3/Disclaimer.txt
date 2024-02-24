@@ -1,0 +1,28 @@
+Disclaimer:
+
+You will submit your file to an assignment that is given through MS teams.  Your file-name should be "Ex03yourStudentNumber.java". Submissions made after the deadline will not be accepted, be sure to submit your work before the due date and make sure to click turn in button. Your code will be automatically controlled, so be sure to have only one public class in your file that has the same name with your file. Failure to do so may result in you receiving 0 from this exercise. You will turn in a single java file.
+
+Exercises:
+1- A restaurant has these meals and drinks: 
+Id    Meal       Price
+1    Doner       80 lira
+2    Kebab      110 lira
+3    Lahmacun    75 lira
+
+Id  Drink       Price
+1     Ayran      10 lira
+2     Kola       20 lira
+3   Salgam  15 lira
+
+Write a program that:
+Reads the id of meal and id of drink (separately) the customer wants. Example inputs: "2", "1"
+Prints the total cost. Example output: "Kebab and Ayran 120 lira"
+2- An internet provider has 2 types of membership. Type 1 has 100 GB quota for 80 lira and 3 lira per GB use  with 15% tax. Type 2 has 200 GB qouta for 140 lira and 5 lira per GB with 10% tax. Write a program that takes input the member type (Example input: "1") and internet usage as GB (Example input: "250") and prints the total amount the customer has to pay.
+
+3- You designed a Folkémon card. Its attacks depend on coin tosses but you are not sure that the card is balanced or not. So you decided to test this card by using Java. Attacks of this card are:
+Attack 1: Flip 2 coins, if both are heads this attack does 60 damage, otherwise this attack does nothing.
+Attack 2: Flip 2 coins. This attack does 50 damage plus 20 more damage for each heads.
+Write a program that tests these two attacks. The program
+Reads the number of attack. Example input: "2"
+Reads id for each coin toss. "0" for false/tails, "1" for true/heads, "2" for deciding with Math.random(). Example inputs: "1", "1"
+Prints the damage dealt by the attack.

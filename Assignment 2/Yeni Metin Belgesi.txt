@@ -1,0 +1,10 @@
+Disclaimer:
+
+You will submit your file to an assignment that is given through MS teams.  Your file-name should be "Ex02yourStudentNumber.java". Submissions made after the deadline will not be accepted, be sure to submit your work before the due date and make sure to click turn in button. Your code will be automatically controlled, so be sure to have only one public class in your file that has the same name with your file. Failure to do so may result in you receiving 0 from this exercise. You will turn in a single java file.
+
+Exercises:
+Write a program that outputs the second to last digit of the entered integer. The program have to read the integer from user input and prints the result. (for 12345 result is 4, for 5 result is 0)
+An internet cafe has a charging system where customers pay 50 liras per hour. However, if a customer spends even one minute, the customer has to pay for the whole hour (or if a customer spends 61 minutes -> pays for 2 hours). Write a program that reads the minutes spent for a customer, prints the total amount the customer has to pay and the amount of time the customer did not use (in other words, the overpaid amount). (Print these two amount in separate lines.)
+Suppose a dice is repeatedly rolled until "4" is obtained. Write a program that calculates the probability of the first "4" is rolled at Kth trial. This probability is calculated by using Geometric Distribution formula given below.
+            ((1-p)^(k-1)) * p
+        p is the probability of rolling "4" in one trial (1/6). Your program have to read the k from user input and prints the result like "The probability of rolling the first 4 on trial <user-input-k> is <result>."
